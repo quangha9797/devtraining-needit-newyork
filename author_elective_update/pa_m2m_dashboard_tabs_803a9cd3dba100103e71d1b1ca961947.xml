@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="Super Super New Fact Table">d7326847dbe500103e71d1b1ca9619d2</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>10</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 04:47:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>803a9cd3dba100103e71d1b1ca961947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d7326847dbe500103e71d1b1ca9619d2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_803a9cd3dba100103e71d1b1ca961947</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 04:47:19</sys_updated_on>
+        <tab display_value="Test BreakDown Matrix">483a9cd3dba100103e71d1b1ca961945</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>cd9c4a37db6c770049eac59705961930</instance_id>
+        <instance_name>dev79640</instance_name>
+        <name>pa_m2m_dashboard_tabs_803a9cd3dba100103e71d1b1ca961947</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="Super Super New Fact Table">d7326847dbe500103e71d1b1ca9619d2</dashboard><home>false</home><homepage/><order>10</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-11 04:47:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>803a9cd3dba100103e71d1b1ca961947</sys_id><sys_mod_count>0</sys_mod_count><sys_name>d7326847dbe500103e71d1b1ca9619d2</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_803a9cd3dba100103e71d1b1ca961947</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-11 04:47:19</sys_updated_on><tab display_value="Test BreakDown Matrix">483a9cd3dba100103e71d1b1ca961945</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>-999761512</payload_hash>
+        <record_name>d7326847dbe500103e71d1b1ca9619d2</record_name>
+        <reverted_from/>
+        <source>c8d877bcdbe140103e71d1b1ca9619b7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 04:47:19</sys_created_on>
+        <sys_id>443a9cd3dba100103e71d1b1ca961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ef3486a840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 04:47:19</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>8c3a9cd31fa1001028607fcb621a5947</update_guid>
+        <update_guid_history>8c3a9cd31fa1001028607fcb621a5947:-999761512</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Super Super New Fact Table">a682f85bdbe100103e71d1b1ca96196d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 06:33:42</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>6b3aa09b8bb8445e962b868ed06b23c4</sys_id>
+        <sys_metadata>803a9cd3dba100103e71d1b1ca961947</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d7326847dbe500103e71d1b1ca9619d2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="Super Super New Fact Table">d7326847dbe500103e71d1b1ca9619d2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_803a9cd3dba100103e71d1b1ca961947</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_803a9cd3dba100103e71d1b1ca961947">443a9cd3dba100103e71d1b1ca961948</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 06:33:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

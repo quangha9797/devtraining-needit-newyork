@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="u_cmdb_ci_ci_qh_network_haha" version="2" view="workspace">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter table="change_request.cmdb_ci">stateNOT IN3,4^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+            </filter>
+            <list_id display_value="u_cmdb_ci_ci_qh_network_haha - Workspace" name="u_cmdb_ci_ci_qh_network_haha" related_list="NULL" sys_domain="global" view="93ab3294dbd100103e71d1b1ca961982">b46e1d57dba500103e71d1b1ca9619f9</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>change_request.cmdb_ci</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-11 09:45:18</sys_created_on>
+            <sys_id>816e1d57dba500103e71d1b1ca9619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-11 09:45:18</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter table="incident.cmdb_ci">stateNOT IN7,8^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+            </filter>
+            <list_id display_value="u_cmdb_ci_ci_qh_network_haha - Workspace" name="u_cmdb_ci_ci_qh_network_haha" related_list="NULL" sys_domain="global" view="93ab3294dbd100103e71d1b1ca961982">b46e1d57dba500103e71d1b1ca9619f9</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>incident.cmdb_ci</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-11 09:45:18</sys_created_on>
+            <sys_id>0d6e1d57dba500103e71d1b1ca9619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-11 09:45:18</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter table="task.cmdb_ci">stateNOT IN3,4,7,8^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+            </filter>
+            <list_id display_value="u_cmdb_ci_ci_qh_network_haha - Workspace" name="u_cmdb_ci_ci_qh_network_haha" related_list="NULL" sys_domain="global" view="93ab3294dbd100103e71d1b1ca961982">b46e1d57dba500103e71d1b1ca9619f9</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>task.cmdb_ci</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-11 09:45:18</sys_created_on>
+            <sys_id>016e1d57dba500103e71d1b1ca9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-11 09:45:18</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>u_cmdb_ci_ci_qh_network_haha - Workspace</calculated_name>
+            <filter/>
+            <name>u_cmdb_ci_ci_qh_network_haha</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-11 09:45:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b46e1d57dba500103e71d1b1ca9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_cmdb_ci_ci_qh_network_haha - Workspace</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_related_u_cmdb_ci_ci_qh_network_haha_workspace</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-11 09:45:17</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">93ab3294dbd100103e71d1b1ca961982</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

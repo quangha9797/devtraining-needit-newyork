@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="tb_QH_demo_dataset" max_length="40" name="x_58872_needit_tb_qh_demo_dataset" type="collection">
+        <element label="Attack" max_length="40" name="attack" type="string"/>
+        <element label="Date" max_length="40" name="date" type="string"/>
+        <element label="Defend" max_length="40" name="defend" type="string"/>
+        <element label="Lucky" max_length="40" name="lucky" type="string"/>
+        <element label="Magic" max_length="40" name="magic" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Speed" max_length="40" name="speed" type="string"/>
+        <element label="Type" max_length="40" name="type" type="string"/>
+        <element label="VIP" max_length="40" name="vip" type="string"/>
+    </element>
+</database>

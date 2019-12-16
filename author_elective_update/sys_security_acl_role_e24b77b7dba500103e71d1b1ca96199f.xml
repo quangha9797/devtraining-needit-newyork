@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-13 10:27:46</sys_created_on>
+        <sys_id>e24b77b7dba500103e71d1b1ca96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needlt_task.x_58872_needit.needlt_task_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_security_acl display_value="x_58872_needit_needlt_task">664b77b7dba500103e71d1b1ca96199c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e24b77b7dba500103e71d1b1ca96199f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-13 10:27:46</sys_updated_on>
+        <sys_user_role display_value="x_58872_needit.needlt_task_user" name="x_58872_needit.needlt_task_user">e64bbb37dba500103e71d1b1ca9619ab</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>cd9c4a37db6c770049eac59705961930</instance_id>
+        <instance_name>dev79640</instance_name>
+        <name>sys_security_acl_role_e24b77b7dba500103e71d1b1ca96199f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-13 10:27:46</sys_created_on><sys_id>e24b77b7dba500103e71d1b1ca96199f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_needlt_task.x_58872_needit.needlt_task_user</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_security_acl display_value="x_58872_needit_needlt_task">664b77b7dba500103e71d1b1ca96199c</sys_security_acl><sys_update_name>sys_security_acl_role_e24b77b7dba500103e71d1b1ca96199f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-13 10:27:46</sys_updated_on><sys_user_role display_value="x_58872_needit.needlt_task_user" name="x_58872_needit.needlt_task_user">e64bbb37dba500103e71d1b1ca9619ab</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>940553344</payload_hash>
+        <record_name>x_58872_needit_needlt_task.x_58872_needit.needlt_task_user</record_name>
+        <reverted_from/>
+        <source>c8d877bcdbe140103e71d1b1ca9619b7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-13 10:27:46</sys_created_on>
+        <sys_id>aa4b77b7dba500103e71d1b1ca9619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16efeccd1830000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-13 10:27:46</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>e24b77b7a6a500108432de428d098ba1</update_guid>
+        <update_guid_history>e24b77b7a6a500108432de428d098ba1:940553344</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_58872_needit_needlt_task.x_58872_needit.needlt_task_user">0c0df33bdba500103e71d1b1ca9619ed</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-13 10:35:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>1793e666035b469b93e59b71241c49a1</sys_id>
+        <sys_metadata>e24b77b7dba500103e71d1b1ca96199f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needlt_task.x_58872_needit.needlt_task_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">664b77b7dba500103e71d1b1ca96199c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_e24b77b7dba500103e71d1b1ca96199f</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_e24b77b7dba500103e71d1b1ca96199f">aa4b77b7dba500103e71d1b1ca9619a1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-13 10:35:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

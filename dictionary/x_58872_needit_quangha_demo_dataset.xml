@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="quangha_demo_dataset" max_length="40" name="x_58872_needit_quangha_demo_dataset" type="collection">
+        <element attributes="import_attribute_name=Attack" label="Attack" max_length="40" name="u_attack" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Defend" label="Defend" max_length="40" name="u_defend" type="integer"/>
+        <element attributes="import_attribute_name=Lucky" label="Lucky" max_length="40" name="u_lucky" type="integer"/>
+        <element attributes="import_attribute_name=Magic" label="Magic" max_length="40" name="u_magic" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=Speed" label="Speed" max_length="40" name="u_speed" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Type" label="Type" max_length="40" name="u_type" type="string"/>
+        <element attributes="import_attribute_name=VIP" label="VIP" max_length="40" name="u_vip" type="integer"/>
+    </element>
+</database>

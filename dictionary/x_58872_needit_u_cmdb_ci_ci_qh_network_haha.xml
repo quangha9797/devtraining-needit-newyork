@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci" label="CI_QH Network haha" max_length="40" name="x_58872_needit_u_cmdb_ci_ci_qh_network_haha" sizeclass="2" type="collection"/>
+</database>
